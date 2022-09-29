@@ -30,7 +30,7 @@
       "teiseiSyside": "訂正元識別子1",
       "teiseiSekmeiIchiiNo": "訂正元一意番号1",
       "manualSeiNo": "AAAAAAAA11111",
-      "manualSeiMultiFlg": "1",
+      "manualSeiMultiFlg": "1"
     },
     {
       "syside": "システム識別子2",
@@ -55,7 +55,7 @@
       "teiseiSyside": "訂正元識別子2",
       "teiseiSekmeiIchiiNo": "訂正元一意番号2",
       "manualSeiNo": "AAAAAAAA22222",
-      "manualSeiMultiFlg": "1",
+      "manualSeiMultiFlg": "1"
     },
     {
       "syside": "システム識別子3",
@@ -80,7 +80,7 @@
       "teiseiSyside": "訂正元識別子3",
       "teiseiSekmeiIchiiNo": "訂正元一意番号3",
       "manualSeiNo": "AAAAAAAA13333",
-      "manualSeiMultiFlg": "1",
+      "manualSeiMultiFlg": "1"
     },
     {
       "syside": "システム識別子4",
@@ -105,7 +105,7 @@
       "teiseiSyside": "訂正元識別子4",
       "teiseiSekmeiIchiiNo": "訂正元一意番号4",
       "manualSeiNo": "AAAAAAAA14444",
-      "manualSeiMultiFlg": "1",
+      "manualSeiMultiFlg": "1"
     },
     {
       "syside": "システム識別子5",
@@ -130,7 +130,7 @@
       "teiseiSyside": "訂正元識別子5",
       "teiseiSekmeiIchiiNo": "訂正元一意番号5",
       "manualSeiNo": "AAAAAAAA15555",
-      "manualSeiMultiFlg": "1",
+      "manualSeiMultiFlg": "1"
     },
     {
       "syside": "システム識別子6",
@@ -155,7 +155,7 @@
       "teiseiSyside": "訂正元識別子6",
       "teiseiSekmeiIchiiNo": "訂正元一意番号6",
       "manualSeiNo": "AAAAAAAA16666",
-      "manualSeiMultiFlg": "0",
+      "manualSeiMultiFlg": "0"
     },
     {
       "syside": "システム識別子7",
@@ -180,7 +180,7 @@
       "teiseiSyside": "訂正元識別子7",
       "teiseiSekmeiIchiiNo": "訂正元一意番号7",
       "manualSeiNo": "AAAAAAAA17777",
-      "manualSeiMultiFlg": "",
+      "manualSeiMultiFlg": ""
     },
     {
       "syside": "システム識別子8",
@@ -205,7 +205,7 @@
       "teiseiSyside": "訂正元識別子8",
       "teiseiSekmeiIchiiNo": "訂正元一意番号8",
       "manualSeiNo": "AAAAAAAA18888",
-      "manualSeiMultiFlg": "0",
+      "manualSeiMultiFlg": "0"
     },
     {
       "syside": "システム識別子9",
@@ -230,7 +230,7 @@
       "teiseiSyside": "訂正元識別子9",
       "teiseiSekmeiIchiiNo": "訂正元一意番号9",
       "manualSeiNo": "AAAAAAAA19999",
-      "manualSeiMultiFlg": "1",
+      "manualSeiMultiFlg": "1"
     }
   ],
   "msgInfo": [
