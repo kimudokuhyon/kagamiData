@@ -135,7 +135,7 @@
       "teiseiSekmeiIchiiNo": "訂正元一意番号5",
       "manualSeiNo": "AAAAAAAA15555",
       "manualSeiMultiFlg": "1"
-      ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "5,500"}
+      ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-5,500"}
     },
     {
       "syside": "システム識別子6",
@@ -187,7 +187,7 @@
       "teiseiSekmeiIchiiNo": "訂正元一意番号7",
       "manualSeiNo": "AAAAAAAA17777",
       "manualSeiMultiFlg": ""
-      ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "7,700"}
+      ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-7,700"}
     },
     {
       "syside": "システム識別子8",
@@ -213,7 +213,7 @@
       "teiseiSekmeiIchiiNo": "訂正元一意番号8",
       "manualSeiNo": "AAAAAAAA18888",
       "manualSeiMultiFlg": "0"
-      ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "8,400"}
+      ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-8,400"}
     },
     {
       "syside": "システム識別子9",
