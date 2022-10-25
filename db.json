@@ -45,8 +45,8 @@
       "sgytenFlg":"作業店所フラグ",
       "comyoteiShoninJugyoinCod":"予定承認者コード",
       "daihyoseikyuFlg":"代表請求フラグ",
-      "comteihoKbn":"発送方法",      
-      "skseiKbn":"作成区分",
+      "comteihoKbn":"郵送",      
+      "skseiKbn":"要",
       "version":"バージョン"
     }    
   ]
