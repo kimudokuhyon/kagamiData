@@ -48,6 +48,8 @@
       "comteihoKbn":"郵送",      
       "skseiKbn":"要",
       "version":"バージョン",
+      "teishutsuHohoKbn":"提出方法区分",
+      "hassoHohoKbn":"発送区分",
       "comnyuho1Kbn":"口座振替"
     }    
   ]
